@@ -1,0 +1,4 @@
+
+#!/bin/sh
+# Simulated gradlew script for demonstration
+echo "Running Gradle Wrapper (Linux/macOS)..."
